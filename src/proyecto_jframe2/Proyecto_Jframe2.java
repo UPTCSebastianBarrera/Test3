@@ -17,6 +17,7 @@ import javax.swing.border.*;
  */
 public class Proyecto_Jframe2 extends JFrame{
 
+    //MODIFICACIÓN EN GITHUB
     public Proyecto_Jframe2(){
         Toolkit tk = Toolkit.getDefaultToolkit();
         Dimension screenSize= tk.getScreenSize();
